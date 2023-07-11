@@ -1,3 +1,4 @@
+//Student-altered file to create the melody of the collaborative project. Altered from Peer_Coach_Roots
 SinOsc s => dac;
 SinOsc s2 => dac;
 SinOsc s3 => dac;
